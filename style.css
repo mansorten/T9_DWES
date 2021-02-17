@@ -1,0 +1,14 @@
+#texto{
+   margin-bottom: 15px;
+}
+#sugerencias{
+   display: block;
+   margin-top: 15px;
+   margin-left: 30px;
+   color:rgb(106, 170, 255);
+}
+.show{
+   display: none;
+}
+
+
